@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+}/* Navbar.css */
+
+.header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  
+  .header a:hover {
+    /* text-decoration: underline; */
+    color:black;
+  }
+  

@@ -1,0 +1,33 @@
+.header{
+    margin:2px;
+    padding:1px;
+    background-color:rgb(53, 102, 131);
+    box-shadow: 2px 3px 6px 0px rgba(151, 136, 136, 0.75);
+    border-radius: 3px 3px 4px 4px;
+    /* color:white; */
+    text-align:center;
+
+    display:flex;
+    justify-content: space-around;
+}
+.header h1{
+    cursor:pointer;
+    color:white;
+   
+}
+
+/* for Home content */
+.data{
+    background-color:#e7e0e0;
+    margin-top:4px;
+}
+#homeBtn{
+    background-color:#0cce8d;
+    padding:4px;
+    margin: 5px;
+    font-weight:bold;
+    border:none;
+    border-radius: 2px;
+    /* box-shadow: horizontal-offset vertical-offset blur-radius spread-radius color; */
+    box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,10 @@
+body{
+    padding:0;
+    margin:0;
+}
+.header{
+    background-color:rgb(51, 51, 150);
+    color:white;
+    text-align:center;
+    border:1px solid black;
+}

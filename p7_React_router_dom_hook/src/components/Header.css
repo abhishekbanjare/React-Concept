@@ -1,0 +1,17 @@
+.header{
+    margin:2px;
+    padding:1px;
+    background-color:rgb(53, 102, 131);
+    box-shadow: 2px 3px 6px 0px rgba(151, 136, 136, 0.75);
+    border-radius: 3px 3px 4px 4px;
+    /* color:white; */
+    text-align:center;
+
+    display:flex;
+    justify-content: space-around;
+}
+.header h1{
+    cursor:pointer;
+    color:white;
+   
+}
